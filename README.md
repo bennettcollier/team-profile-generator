@@ -6,6 +6,9 @@ The Team Profile Generator allows the user to enter team members, their roles, n
 ## Installation
 This project can be accessed by using Node in the Terminal.
 
+## How to Use
+![](/images/teamprofilegenerator.gif)
+
 ## Future Contributions
 - Fix any bugs that come up and submit as pull requests on the GitHub repository
 
