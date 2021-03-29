@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+}
+  
+body {
+    margin: 0;
+    padding: 0;
+    line-height: 1.3;
+    font-size: 15px;
+    background-color: #7db397;
+    color: #354a3f;
+}
+  
+h1 {
+    font-weight: bold;
+    margin: 3px 0;
+    line-height: 1.5;
+    font-size: 2.2rem;
+    color: #fffce8;
+}
+  
+h5 {
+    font-size: 1.2rem;
+    font-weight: bold;
+    text-decoration: underline;
+    color: #8f9e8a;
+}
+  
+.card {
+    border-radius: 0.5rem;
+    border-color: #eff5ed;
+    background-color: #354a3f;
+}
+  
+.list-group-item { 
+      color: #e2e6e1;
+      border: solid .005rem;
+      border-color: #8f9e8a;
+      line-height: 1;
+      font-size: .8rem;
+}
